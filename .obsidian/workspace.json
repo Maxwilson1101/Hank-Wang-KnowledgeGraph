@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "68d41168ca17f2bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "72ccf9590d5957de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0289f0c4b085181f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71ee7688634be1cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2707f2b4e157a0a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a85ff4057bb9a9ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c20550221e6785a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddd8b61a45160f5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97cf06394e9d5150",
+    "type": "split",
+    "children": [
+      {
+        "id": "15c5a183299f7b55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbce41a06b102ba5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47791b2f84589db8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2595826de60c5019",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c6d04b68f73f6f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0289f0c4b085181f",
+  "lastOpenFiles": [
+    "Hank Wang's Knowledge Graph.md",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/Introduction.md",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/My Notes on Borcherds' Complex Analysis Lecture.md",
+    "Mathematics/Analysis/Complex Analysis/complex analysis.md",
+    "Mathematics/Analysis/Real Analysis/real analysis.md",
+    "[Complex.md",
+    "Complex.md",
+    "Mathematics/Discrete Mathematics/discrete mathematics.md",
+    "Mathematics/Mathematics.md",
+    "Mathematics/Probability/probability.md",
+    "Mathematics/Statistics/statistics.md",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/lecture 1",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds",
+    "Mathematics/Discrete Mathematics/Combinatorics/combinatorics.md",
+    "Mathematics/Analysis/Real Analysis/Measure Theory/measure theory.md",
+    "Computer Science/Computer Science.md",
+    "Mathematics/Analysis/Real Analysis/Measure Theory",
+    "English/English.md",
+    "Mathematics/Analysis",
+    "Mathematics/Analysis/Complex Analysis",
+    "Mathematics/Algebra/algebra.md",
+    "Mathematics/Number Theory/number theory.md",
+    "Mathematics/Geometry/geometry.md",
+    "Mathematics/Algebra",
+    "Mathematics/Number Theory",
+    "Mathematics/Discrete Mathematics/Combinatorics",
+    "Mathematics/Geometry",
+    "Mathematics/Discrete Mathematics",
+    "Welcome.md"
+  ]
+}
