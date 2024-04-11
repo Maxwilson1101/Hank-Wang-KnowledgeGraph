@@ -13,3 +13,5 @@ I have some experience with development, having embarked on learning Java backen
 - [ ] Textbook Chapter 1.1~1.6 - `CS 61A` FA23
 - [ ] `Lab1` and `Lab2` - `CS 61B` SP24
 - [ ] Textbook Chapter 1~6 - `CS 61B` SP24
+- [ ] Reading Guide [Using Git](https://sp24.datastructur.es/resources/guides/git/) - `CS 61B` SP24
+- [ ] Reading Guide [Using IntelliJ](https://sp24.datastructur.es/resources/guides/intellij/) - `CS 61B` SP24
