@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "97cf06394e9d5150",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer Science/Computer Science.md"
               }
             }
           }
@@ -138,44 +139,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "0289f0c4b085181f",
   "lastOpenFiles": [
-    "Hank Wang's Knowledge Graph.md",
-    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/Introduction.md",
-    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/My Notes on Borcherds' Complex Analysis Lecture.md",
-    "Mathematics/Analysis/Complex Analysis/complex analysis.md",
-    "Mathematics/Analysis/Real Analysis/real analysis.md",
-    "[Complex.md",
-    "Complex.md",
-    "Mathematics/Discrete Mathematics/discrete mathematics.md",
-    "Mathematics/Mathematics.md",
-    "Mathematics/Probability/probability.md",
-    "Mathematics/Statistics/statistics.md",
-    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/lecture 1",
-    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds",
-    "Mathematics/Discrete Mathematics/Combinatorics/combinatorics.md",
-    "Mathematics/Analysis/Real Analysis/Measure Theory/measure theory.md",
+    "Computer Science/CS 61 series/CS 61 series.md",
     "Computer Science/Computer Science.md",
-    "Mathematics/Analysis/Real Analysis/Measure Theory",
-    "English/English.md",
-    "Mathematics/Analysis",
-    "Mathematics/Analysis/Complex Analysis",
-    "Mathematics/Algebra/algebra.md",
+    "Mathematics/Mathematics.md",
+    "Computer Science/CS 61 series/CS 61C/CS 61C.md",
+    "Computer Science/CS 61 series/CS 61B/CS 61B.md",
+    "Computer Science/CS 61 series/CS 61A/CS 61A.md",
+    "Computer Science/CS 61 series/CS 61C",
+    "Computer Science/CS 61 series/Untitled.canvas",
+    "Computer Science/CS 61 series/CS 61B",
+    "Computer Science/CS 61 series/CS 61A",
+    "Computer Science/CS 61 series",
+    "csdiy.wiki.md",
+    "Hank Wang's Knowledge Graph.md",
+    "Computer Science/The Programming Language C/The Development of the C Language.md",
+    "Computer Science/The Programming Language C",
+    "Mathematics/Statistics/statistics.md",
+    "Mathematics/Probability/probability.md",
     "Mathematics/Number Theory/number theory.md",
     "Mathematics/Geometry/geometry.md",
-    "Mathematics/Algebra",
-    "Mathematics/Number Theory",
-    "Mathematics/Discrete Mathematics/Combinatorics",
-    "Mathematics/Geometry",
-    "Mathematics/Discrete Mathematics",
+    "Mathematics/Discrete Mathematics/discrete mathematics.md",
+    "Mathematics/Discrete Mathematics/Combinatorics/combinatorics.md",
+    "Mathematics/Analysis/Real Analysis/real analysis.md",
+    "Mathematics/Analysis/Real Analysis/Measure Theory/measure theory.md",
+    "Mathematics/Analysis/Complex Analysis/complex analysis.md",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/Introduction.md",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/My Notes on Borcherds' Complex Analysis Lecture.md",
+    "Mathematics/Algebra/algebra.md",
+    "English/English.md",
+    "README.md",
+    "[Complex.md",
+    "Complex.md",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds/lecture 1",
+    "Mathematics/Analysis/Complex Analysis/a lecture by Richard E. Borcherds",
+    "Mathematics/Analysis/Real Analysis/Measure Theory",
+    "Mathematics/Analysis",
+    "Mathematics/Analysis/Complex Analysis",
     "Welcome.md"
   ]
 }
